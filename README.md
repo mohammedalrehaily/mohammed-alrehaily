@@ -14,15 +14,22 @@ Technical Skills
 
 GIS 🌐
 Geographic Information Systems (GIS)
+
 Spatial Data Digitization
+
 Spatial Analysis & Geoprocessing
+
 Geodatabase Management
+
 Topology Analysis
+
 Cartography & Map Production
 
 RS 🛰️
 Satellite Imagery Processing & Analysis
+
 Satellite Imagery Data Acquisition
+
 Image Classification
 
 
