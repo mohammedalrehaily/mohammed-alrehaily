@@ -7,14 +7,8 @@ I'm a Saudi GIS graduate from Umm Al-Qura University, passionate about Geographi
 
 I have practical experience in spatial data digitization, geodatabase management, and topology analysis. I continuously strive to develop my SQL and Python skills and integrate them into workflows and Geographic Information Systems (GIS).
 
-🛠️ Technical Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/ArcGIS%20Pro-2E8B57?style=for-the-badge&logo=esri&logoColor=white" alt="ArcGIS Pro"/>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Remote%20Sensing-064E3B?style=for-the-badge&logoColor=white" alt="Remote Sensing"/>
-</p>
+Software
+<p align="center"> <img src="https://img.shields.io/badge/ArcGIS%20Pro-2E8B57?style=for-the-badge&logo=esri&logoColor=white" alt="ArcGIS Pro"/> <img src="https://img.shields.io/badge/ArcMap-0079C1?style=for-the-badge&logo=esri&logoColor=white" alt="ArcMap"/> <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/> <img src="https://img.shields.io/badge/ERDAS%20Imagine-005A8D?style=for-the-badge&logoColor=white" alt="ERDAS Imagine"/> <img src="https://img.shields.io/badge/Google%20Earth-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/> </p>
 
 GIS Software: ArcGIS Pro, ArcMap, QGIS
 
