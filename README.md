@@ -33,6 +33,8 @@ Satellite Imagery Data Acquisition
 
 Image Classification
 
+Programming 💻
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/> </p>
 
 Databases: SQL, Microsoft SQL Server
 
