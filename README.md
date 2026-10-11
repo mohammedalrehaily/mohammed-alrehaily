@@ -36,11 +36,27 @@ Image Classification
 Programming 💻
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/> </p>
 
-Databases: SQL, Microsoft SQL Server
+Databases & SQL:
 
-Programming: Python (Beginner)
+Database Design & Development
 
-Other Tools: Google Earth, Microsoft Office
+Data Entry & Editing
+
+Database Querying
+
+Table Joins & Relates
+
+Python (Beginner):
+ 
+Python Fundamentals
+
+Python Scripting
+
+Object-Oriented Programming (OOP)
+
+ArcPy Fundamentals
+
+
 
 📌 Areas of Interest
 
@@ -48,27 +64,22 @@ Geographic Information Systems (GIS)
 
 Remote Sensing and Satellite Imagery
 
-Spatial Database Management
-
-Geospatial Data Quality and Analysis
-
-SQL and Python for Geospatial Applications
+SQL and Python for Geospatial Applications & business operations
 
 🚀 Currently Learning
 
-SQL and Database Design
+SQL and Database Design & GIS Workflow Integration
 
-python 
-arc py
+Python & GIS Integration
 
 📂 Featured Projects
 
-Coming soon! I'm working on building a portfolio of GIS, remote sensing, and spatial database projects.
+Coming soon! I'm developing a database project for managing employees within a fictional sports club.
 
 📫 Connect With Me
 
-LinkedIn: Add your LinkedIn URL
+LinkedIn: (https://www.linkedin.com/in/mohammed-alrehaily-26488a372/?isSelfProfile=true)
 
-Email: Add your professional email
+Email: mohammedfalehalrehily@gmail.com
 
 Always learning, mapping, and exploring the world through geospatial technology. 🌍
