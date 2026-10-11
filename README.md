@@ -1,5 +1,7 @@
-Hi, I'm Mohammed Alrehaily 👋
 <p align="center"> <img src="GIS.png"> </p>
+
+
+Hi, I'm Mohammed Alrehaily 👋
 
 GIS & RS Specialist | Spatial Data Analysis | DATA Analysis
 
@@ -13,6 +15,7 @@ Technical Skills
 
 
 GIS 🌐
+
 Geographic Information Systems (GIS)
 
 Spatial Data Digitization
