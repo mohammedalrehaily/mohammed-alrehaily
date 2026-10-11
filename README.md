@@ -10,16 +10,28 @@ I have practical experience in spatial data digitization, geodatabase management
 Software
 <p align="center"> <img src="https://img.shields.io/badge/ArcGIS%20Pro-2E8B57?style=for-the-badge&logo=esri&logoColor=white" alt="ArcGIS Pro"/> <img src="https://img.shields.io/badge/ArcMap-0079C1?style=for-the-badge&logo=esri&logoColor=white" alt="ArcMap"/> <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/> <img src="https://img.shields.io/badge/ERDAS%20Imagine-005A8D?style=for-the-badge&logoColor=white" alt="ERDAS Imagine"/> <img src="https://img.shields.io/badge/Google%20Earth-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/> </p>
 Technical Skills
+
+
 GIS 🌐
+
 Geographic Information Systems (GIS)
+
 Spatial Data Digitization
+
 Spatial Analysis & Geoprocessing
+
 Geodatabase Management
+
 Topology Analysis
+
 Cartography & Map Production
+
 RS 🛰️
+
 Satellite Imagery Processing & Analysis
+
 Satellite Imagery Data Acquisition
+
 Image Classification
 
 
