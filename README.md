@@ -1,5 +1,5 @@
 Hi, I'm Mohammed Alrehaily 👋
-<p align="center"> <img src="./portfolio-banner.png" alt="Mohammed Alrehaily GIS Portfolio" width="100%"> </p>
+<p align="center"> <img src="GIS.png"> </p>
 
 GIS Specialist & Remote Sensing | Spatial Data Analysis| DATA Analysis
 
